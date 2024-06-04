@@ -1,2 +1,3 @@
 # Homework 1
-Hello Professor
+###Hello Professor
+* Hi
